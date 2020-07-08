@@ -1,0 +1,20 @@
+{
+  "name": "pouchdb-adapter-node-websql",
+  "version": "7.0.0-prerelease",
+  "description": "PouchDB adapter using Node-based SQLite as its data store.",
+  "main": "./index.js",
+  "keywords": [],
+  "author": "Dale Harvey <dale@arandomurl.com>",
+  "contributors": [
+    "Lucas Vasilakopoulos <lucasyvas@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/lucasyvas/pouchdb-adapter-node-websql",
+  "dependencies": {
+    "argsarray": "0.0.1",
+    "immediate": "3.3.0",
+    "noop-fn": "1.0.0",
+    "sqlite3": "5.0.0",
+    "tiny-queue": "0.2.1"
+  }
+}

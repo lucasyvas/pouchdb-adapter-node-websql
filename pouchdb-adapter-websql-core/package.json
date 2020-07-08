@@ -1,0 +1,13 @@
+{
+  "name": "pouchdb-adapter-websql-core",
+  "version": "7.0.0-prerelease",
+  "description": "Underlying adapter code for WebSQL and SQLite-based PouchDB adapters.",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "Dale Harvey <dale@arandomurl.com>",
+  "contributors": [
+    "Lucas Vasilakopoulos <lucasyvas@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/lucasyvas/pouchdb-adapter-node-websql"
+}
